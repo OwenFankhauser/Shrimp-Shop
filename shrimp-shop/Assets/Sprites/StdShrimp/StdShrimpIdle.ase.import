@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://y0p0kgedmcn7"
+path="res://.godot/imported/StdShrimpIdle.ase-d10c7ae1c9572cd3229fda40f6b52758.res"
+
+[deps]
+
+source_file="res://Assets/Sprites/StdShrimp/StdShrimpIdle.ase"
+dest_files=["res://.godot/imported/StdShrimpIdle.ase-d10c7ae1c9572cd3229fda40f6b52758.res"]
+
+[params]
+
